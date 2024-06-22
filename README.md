@@ -1,4 +1,4 @@
-# Almadrasa_RockPaperScissors
+# Almadrasa_RockPaperScissors 🪨🧾✂ 
 simple project for course python projects in Almadrasa (For educational purpose)
 ### project notes 📙📃📑 :
 ###### This project contains of these files :
